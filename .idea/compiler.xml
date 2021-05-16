@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="No_Mad_Gear" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="No_Mad_Gear" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="No_Mad_Gear" options="-endorseddirs &quot;C:\Users\xSTORMx\Documents\Full Stack Java Project\No_Mad_Gear\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>
